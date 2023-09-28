@@ -1,0 +1,634 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e1e3da85df0484bf566e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58
+					]
+				},
+				{
+					"build" : "content",
+					"jsonFile" : "directory-content-Debug-c4a8907fd9b0c941fc19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "content",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"build" : "imports",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-imports-Debug-14abf60cb0196d8893be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "imports"
+				},
+				{
+					"build" : "imports/databasesql",
+					"jsonFile" : "directory-imports.databasesql-Debug-3da983626029a13699ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "imports/databasesql",
+					"targetIndexes" : 
+					[
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "databseApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-68d74590850895942e8e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0d7a43a27f70211e9c44.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c6f74bdb9b6c28e45075.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-306fc837e8c1278c2018.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content-Debug-4981df92e4cda734739d.json",
+					"name" : "content",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen-Debug-eabc9dee4e30a2536508.json",
+					"name" : "content_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen_timestamp_deps-Debug-a244a8e5f91570fb1336.json",
+					"name" : "content_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache-Debug-9600da1b5d1c25075550.json",
+					"name" : "content_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache_autogen-Debug-3ac3344a3f0b03ba3a70.json",
+					"name" : "content_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache_autogen_timestamp_deps-Debug-0aa9cf9730452a957501.json",
+					"name" : "content_qmlcache_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint-Debug-25030a11ab7c0d431597.json",
+					"name" : "content_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_json::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_json-Debug-b51cf27e8ef7f2d3db81.json",
+					"name" : "content_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_module::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_module-Debug-c3b68ff8f4cb91e411ec.json",
+					"name" : "content_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmltyperegistration::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmltyperegistration-Debug-36e613d4c24ae3248579.json",
+					"name" : "content_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1-Debug-5b8a3d67d11c7550879a.json",
+					"name" : "content_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1_autogen-Debug-3292d5f56ee39cbcf6d1.json",
+					"name" : "content_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1_autogen_timestamp_deps-Debug-3c4fcd08024d7225f5e1.json",
+					"name" : "content_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2-Debug-067866f283e7abf81c7f.json",
+					"name" : "content_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2_autogen-Debug-f93d2643f819e2c00f49.json",
+					"name" : "content_resources_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2_autogen_timestamp_deps-Debug-efcf54660bef15eaef46.json",
+					"name" : "content_resources_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_tooling::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_tooling-Debug-66914532fb62d9028631.json",
+					"name" : "content_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin-Debug-d4f905cf171bb95e09c2.json",
+					"name" : "contentplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen-Debug-547d608cebacf67fefbe.json",
+					"name" : "contentplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen_timestamp_deps-Debug-b13d7b51bc0aa7fcec3b.json",
+					"name" : "contentplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init-Debug-bcdca178602b605a9adf.json",
+					"name" : "contentplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen-Debug-89be573d57a22d155368.json",
+					"name" : "contentplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen_timestamp_deps-Debug-b96ca56c39eb13b58cb7.json",
+					"name" : "contentplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql-Debug-01b8b2f87367aa8159f8.json",
+					"name" : "databasesql",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_autogen-Debug-88dcf10fd27370c3ff2d.json",
+					"name" : "databasesql_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_autogen_timestamp_deps-Debug-96f85ec1c01c2e39485a.json",
+					"name" : "databasesql_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmlcache::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmlcache-Debug-b0c9a560e941a84e5de9.json",
+					"name" : "databasesql_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmlcache_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmlcache_autogen-Debug-45087f9b181aa2191fdf.json",
+					"name" : "databasesql_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmlcache_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmlcache_autogen_timestamp_deps-Debug-1e324003ca849b72fc1b.json",
+					"name" : "databasesql_qmlcache_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmllint::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmllint-Debug-ab094f43a46507f4b1c8.json",
+					"name" : "databasesql_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmllint_json::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmllint_json-Debug-9cb47c95e2b1df1f1cc6.json",
+					"name" : "databasesql_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmllint_module::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmllint_module-Debug-8df04d664d7eb2906d49.json",
+					"name" : "databasesql_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_qmltyperegistration::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_qmltyperegistration-Debug-8133ae6850bd3315d09a.json",
+					"name" : "databasesql_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_1::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_1-Debug-60fbe9dcf7ea8b79b4c8.json",
+					"name" : "databasesql_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_1_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_1_autogen-Debug-ea5f08dd2734cc4744fd.json",
+					"name" : "databasesql_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_1_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_1_autogen_timestamp_deps-Debug-af6a677b0cd7d5fe4ae4.json",
+					"name" : "databasesql_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_2::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_2-Debug-89cc7093197e8f6763d9.json",
+					"name" : "databasesql_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_2_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_2_autogen-Debug-410837cc00f4eb9bb376.json",
+					"name" : "databasesql_resources_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_resources_2_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_resources_2_autogen_timestamp_deps-Debug-5907d9d7602791dbe966.json",
+					"name" : "databasesql_resources_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesql_tooling::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesql_tooling-Debug-c286787ddfdc3d0dc4ae.json",
+					"name" : "databasesql_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin-Debug-23be018c924bf9c2c99b.json",
+					"name" : "databasesqlplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin_autogen-Debug-32a99811ff2922268a5f.json",
+					"name" : "databasesqlplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin_autogen_timestamp_deps-Debug-1c69a9c395b478655f55.json",
+					"name" : "databasesqlplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin_init::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin_init-Debug-f509db3d60fa05c3514e.json",
+					"name" : "databasesqlplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin_init_autogen::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin_init_autogen-Debug-8511bd511dd3d375b147.json",
+					"name" : "databasesqlplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "databasesqlplugin_init_autogen_timestamp_deps::@0789d2098101133d7904",
+					"jsonFile" : "target-databasesqlplugin_init_autogen_timestamp_deps-Debug-7adbea8036b3ec9711d3.json",
+					"name" : "databasesqlplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp-Debug-8a35c4b34cec380dfdf7.json",
+					"name" : "databseApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_autogen-Debug-f3ec8f912a40948437ce.json",
+					"name" : "databseApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_autogen_timestamp_deps-Debug-70c397b77f5cf4284dda.json",
+					"name" : "databseApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_qmlimportscan-Debug-08fc7b766c06bbad38fd.json",
+					"name" : "databseApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_qmllint-Debug-a775c6eab51df50f589f.json",
+					"name" : "databseApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_qmllint_json-Debug-1791c005ad828139a005.json",
+					"name" : "databseApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_qmllint_module-Debug-5298e7b73734be152954.json",
+					"name" : "databseApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_qmltyperegistration-Debug-e1c868f8b79639ccfd63.json",
+					"name" : "databseApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "databseApp_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-databseApp_tooling-Debug-1269fd877aef8009b7bc.json",
+					"name" : "databseApp_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/KEGMULAYIM/Documents/GitHub/QT_Database/localDatabase/build-databasesql-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

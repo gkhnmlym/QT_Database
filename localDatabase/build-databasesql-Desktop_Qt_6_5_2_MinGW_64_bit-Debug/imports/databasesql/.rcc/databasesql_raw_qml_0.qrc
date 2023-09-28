@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/databasesql/">
+    <file alias="Constants.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/imports/databasesql/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/imports/databasesql/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/imports/databasesql/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/imports/databasesql/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

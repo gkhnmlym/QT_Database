@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/content/">
+    <file alias="App.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/content/App.qml</file>
+    <file alias="Screen01.ui.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

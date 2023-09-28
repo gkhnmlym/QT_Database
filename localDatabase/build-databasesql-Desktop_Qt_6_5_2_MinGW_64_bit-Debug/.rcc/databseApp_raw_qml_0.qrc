@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Main/">
+    <file alias="main.qml">C:/Users/KEGMULAYIM/Desktop/QT_Database/localDatabase/databasesql/main.qml</file>
+  </qresource>
+</RCC>
+

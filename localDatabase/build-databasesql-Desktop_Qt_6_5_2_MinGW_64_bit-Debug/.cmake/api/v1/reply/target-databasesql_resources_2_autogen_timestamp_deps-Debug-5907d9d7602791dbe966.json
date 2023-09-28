@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/databasesql/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "databasesql_resources_2_autogen_timestamp_deps::@0789d2098101133d7904",
+	"isGeneratorProvided" : true,
+	"name" : "databasesql_resources_2_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/databasesql",
+		"source" : "imports/databasesql"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/KEGMULAYIM/Documents/GitHub/QT_Database/localDatabase/build-databasesql-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/imports/databasesql/CMakeFiles/databasesql_resources_2_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/KEGMULAYIM/Documents/GitHub/QT_Database/localDatabase/build-databasesql-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/imports/databasesql/CMakeFiles/databasesql_resources_2_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
